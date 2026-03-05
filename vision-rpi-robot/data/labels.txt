@@ -30,14 +30,6 @@ shoe
 eye glasses
 handbag
 tie
-suitcase
-frisbee
-skis
-snowboard
-sports ball
-kite
-baseball bat
-baseball glove
 skateboard
 surfboard
 tennis racket
