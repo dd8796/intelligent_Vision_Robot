@@ -4,7 +4,7 @@
   <name>vision_rpi_bot</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="luqman@todo.todo">luqman</maintainer>
+  <maintainer email="dd87@github">luqman</maintainer>
   <license>TODO: License declaration</license>
 
   <test_depend>ament_copyright</test_depend>
